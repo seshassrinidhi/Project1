@@ -17,7 +17,7 @@ Click 👉 [here](https://drive.google.com/drive/folders/1CPxPGrZGJfNywrLzKgoa3w
 
 **3. Strategy Evaluation by Region:**
 - Query to assess government strategies and policies and their impact on regional performance.
-- 
+  
 **4. Economic Impact on AI Innovation:**
 - Query to identify relationships between government investment, infrastructure, and AI development rank.
 
