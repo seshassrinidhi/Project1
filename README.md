@@ -2,7 +2,7 @@
 ## Overview
 This repository contains SQL queries and documentation for analyzing a dataset on global AI competitiveness. The dataset includes key metrics on AI innovation, political regimes, government strategies, talent pools, and economic conditions across various countries. This project helps businesses identify which regions lead in AI, the role of governments in driving innovation, and how economic and political contexts influence technological growth.##
 ## Files
-- **SQL_queries.sql**: Contains SQL queries used to explore the dataset and answer key business questions.
+- **aiindex.sql**: Contains SQL queries used to explore the dataset and answer key business questions.
 - **Data_Model_ERD.png**: Entity-relationship diagram (ERD) illustrating the relationships between different dataset tables.
 - **Data_Dictionary.md**: Describes the structure of the dataset and provides definitions for key columns and metrics.
 - **README.md**: This file, providing an overview of the project and usage instructions.
